@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Jody Park’s CV\nLast Updated: Sep 1, 2025"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "jodypark.github.io.git",
+    "title": "Jody Park",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Jody Park is a first-year PhD student in Political Science/Social Data Analytics at The Pennsylvania State University."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "CV",
+    "section": "",
+    "text": "Jody Park’s CV\nLast Updated: Sep 1, 2025"
   }
 ]
