@@ -1,7 +1,7 @@
 ---
 title: "Jody Park"
 description-meta: "Jody Park's website"
-main-photo: /files/profiles/jodypark_bio_submitted.jpg
+main-photo: files/profiles/jodypark_bio_submitted.jpg
 format:
   html:
     quarto-template-params:
@@ -18,7 +18,7 @@ format:
   <div class="g-col-3 g-col-sm-5">
     <picture>
       <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
-      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
+      <img class="img-fluid" src="{{< meta main-photo >}}" alt="Jody Park Bio">
     </picture>
   </div>
   <div class="g-col-1 g-col-sm-0"></div>
