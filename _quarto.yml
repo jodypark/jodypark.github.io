@@ -28,7 +28,7 @@ website:
 
   page-footer:
     center:
-      - text: "© {{< meta year >}} Jody Park"
+      - text: "© 2025 Jody Park"
       - text: "Built with Quarto"
         href: https://quarto.org
 
