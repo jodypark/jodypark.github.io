@@ -1,11 +1,5 @@
 ---
-title: "jodypark.github.io.git"
+title: "Jody Park"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Jody Park is a first-year PhD student in Political Science/Social Data Analytics at The Pennsylvania State University.
