@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "jodypark.github.io.git"
+  title: "Jody Youjeong Park"
   navbar:
     left:
       - href: index.qmd

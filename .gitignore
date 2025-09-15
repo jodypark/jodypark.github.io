@@ -9,3 +9,6 @@ docs/
 renv/library/
 __pycache__/
 *.html
+
+/.quarto/
+**/*.quarto_ipynb
