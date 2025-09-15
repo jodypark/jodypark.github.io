@@ -6,8 +6,7 @@ website:
   description: "PhD Student - Political Science & Social Data Analytics, Penn State"
   site-url: https://jodypark.github.io
   repo-url: https://github.com/jodypark/jodypark.github.io
-  favicon: file/profile/jodypark_bio_submitted.jpg
-
+  
   navbar:
     background: primary
     search: true
@@ -35,10 +34,11 @@ website:
 
 format:
   html:
-    theme: styles.scss         
+    theme:
+      - html/style.scss   
     grid:
-      body-width: 900px        
-    toc: false                  
+      body-width: 900px
+    toc: false
     code-link: true
     anchor-sections: true
     fig-cap-location: margin
@@ -49,7 +49,5 @@ format:
     link-external-newwindow: true
     code-copy: true
 
-editor: visual
-
 execute:
-  freeze: auto                  
+  freeze: auto
