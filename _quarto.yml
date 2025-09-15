@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Jody Youjeong Park"
+  title: "Jody Park"
+  description: "Jody Park is a first-year PhD student in Political Science/Social Data Analytics at Penn State."
   navbar:
     left:
       - href: index.qmd
