@@ -3,20 +3,53 @@ project:
 
 website:
   title: "Jody Park"
-  description: "Jody Park is a first-year PhD student in Political Science/Social Data Analytics at Penn State."
+  description: "PhD Student - Political Science & Social Data Analytics, Penn State"
+  site-url: https://jodypark.github.io
+  repo-url: https://github.com/jodypark/jodypark.github.io
+  favicon: file/profile/jodypark_bio_submitted.jpg
+
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: About
-      - cv.qmd
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/jodypark
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: https://www.linkedin.com/in/jodypark/
+      - icon: envelope
+        aria-label: Email
+        href: mailto:jodypark@psu.edu
+
+  page-footer:
+    center:
+      - text: "© {{< meta year >}} Jody Park"
+      - text: "Built with Quarto"
+        href: https://quarto.org
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+    theme: styles.scss         
+    grid:
+      body-width: 900px        
+    toc: false                  
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
 
 editor: visual
 
+execute:
+  freeze: auto                  
