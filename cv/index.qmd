@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Jody Park's CV"
 description: "Jody Park's CV"
 date: 2025-10-01
 published-title: "CV last updated"

@@ -13,7 +13,7 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: cv.qmd
+      - href: cv/index.qmd
         text: CV
     right:
       - icon: github
