@@ -35,14 +35,14 @@ cv:
 }
 
 .cv-download.btn-primary {
-  background-color: #1E407C !important;  /* PSU Blue */
+  background-color: #1E407C !important;  
   border-color: #1E407C !important;
-  color: #ffffff !important;            /* white text */
-  box-shadow: none !important;          /* remove bootstrap shadow */
+  color: #ffffff !important;            
+  box-shadow: none !important;          
 }
 
 .cv-download.btn-primary:hover {
-  background-color: #96BEE6 !important;  /* PSU Navy on hover */
+  background-color: #96BEE6 !important;  
   border-color: #96BEE6 !important;
   color: #ffffff !important;
 }
