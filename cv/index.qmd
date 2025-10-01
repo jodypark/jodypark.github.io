@@ -35,13 +35,13 @@ cv:
 }
 
 .cv-download.btn-primary {
-  background-color: #96BEE6;   /* PSU light blue */
-  border-color: #96BEE6;       /* PSU light blue */
+  background-color: #001E44;   /* PSU light blue */
+  border-color: #001E44;       /* PSU light blue */
 }
 
 .cv-download.btn-primary:hover {
-  background-color: #001E44;   /* PSU navy/darker */
-  border-color: #001E44;
+  background-color: #96BEE6;   /* PSU navy/darker */
+  border-color: #96BEE6;
 }
 
 ```
