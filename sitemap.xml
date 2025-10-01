@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jodypark.github.io/cv.html</loc>
-    <lastmod>2025-09-15T15:13:25.531Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jodypark.github.io/index.html</loc>
-    <lastmod>2025-09-15T15:13:26.112Z</lastmod>
+    <loc>https://jodypark.github.io/cv/index.html</loc>
+    <lastmod>2025-10-01T19:26:18.272Z</lastmod>
   </url>
   <url>
     <loc>https://jodypark.github.io/about.html</loc>
-    <lastmod>2025-09-15T05:26:46.512Z</lastmod>
+    <lastmod>2025-10-01T19:18:32.244Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jodypark.github.io/index.html</loc>
+    <lastmod>2025-10-01T19:21:35.560Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jodypark.github.io/cv.html</loc>
+    <lastmod>2025-10-01T19:21:29.919Z</lastmod>
   </url>
 </urlset>

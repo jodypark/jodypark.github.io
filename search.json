@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
     "title": "CV",
     "section": "",
-    "text": "Jody Park’s CV"
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "CV",
+    "section": "",
+    "text": "Jody Park’s CV\nLast Updated: Sep 1, 2025"
   },
   {
     "objectID": "index.html",
@@ -14,10 +21,10 @@
     "text": "Jody Park is a first-year PhD student in Political Science/Social Data Analytics at The Pennsylvania State University."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "cv.html",
+    "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Jody Park’s CV\nLast Updated: Sep 1, 2025"
+    "text": "Download current CV"
   }
 ]
