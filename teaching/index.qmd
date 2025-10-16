@@ -1,0 +1,6 @@
+---
+title: "Teaching"
+page-layout: full
+include-back-link: false
+---
+

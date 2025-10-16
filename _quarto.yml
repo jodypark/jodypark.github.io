@@ -15,6 +15,11 @@ website:
         text: About
       - href: cv/index.qmd
         text: CV
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+        
     right:
       - icon: github
         aria-label: GitHub
