@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jodypark.github.io/cv/index.html</loc>
-    <lastmod>2025-10-07T12:29:11.873Z</lastmod>
+    <lastmod>2025-10-16T19:33:25.004Z</lastmod>
   </url>
   <url>
     <loc>https://jodypark.github.io/index.html</loc>
     <lastmod>2025-10-01T20:43:51.552Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jodypark.github.io/research/index.html</loc>
+    <lastmod>2025-10-16T19:33:27.153Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jodypark.github.io/teaching/index.html</loc>
+    <lastmod>2025-10-16T19:33:14.493Z</lastmod>
   </url>
 </urlset>
