@@ -1,12 +1,12 @@
 ---
 title: "Jody Park's CV"
 description: "Jody Park's CV"
-date: 2026-02-14
-published-title: "CV last updated"
+date: 2026-08-23
+published-title: "CV Last Updated"
 engine: knitr
 freeze: false
 cv:
-  pdf: "+CV_JODY_PARK_260214.pdf"   # update cv file
+  pdf: "+CV_JODY_PARK_260823.pdf"   # update cv file
 ---
 
 ```{css, echo=FALSE}
