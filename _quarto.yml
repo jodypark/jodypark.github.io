@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Jody Park"
+  favicon: files/jody_emoji_icon.png
   description: "PhD Student - Political Science & Social Data Analytics, Penn State"
   site-url: https://jodypark.github.io
   repo-url: https://github.com/jodypark/jodypark.github.io
