@@ -22,6 +22,6 @@ __pycache__/
 /cv/cv-template.pdf
 
 # Keep local CV source and build helpers out of the public repository
-/cv/+CV_JODY_PARK_261027.qmd
+/cv/+CV_JODY_PARK_*.qmd
 /cv/cv-preserve-latex.lua
 /cv/cv-template.tex
