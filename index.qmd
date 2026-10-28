@@ -32,8 +32,8 @@ format:
 I’m a second-year dual-title PhD student in [Political Science](https://polisci.la.psu.edu/graduate/){.about-link} and [Social Data Analytics](https://soda.la.psu.edu/){.about-link} at [Pennsylvania State University](https://www.psu.edu/){.about-link}.
 
 
-I study the politics of U.S. federal agencies.\ 
-Agencies hold policy preferences of their own, which I call agency ideology. I ask how agency ideology is shaped, and how it shapes what agencies do: how they award contracts, share information with Congress and interest groups, and write rules. I examine agency ideology from three angles: (1) within the agency, (2) between the agency and its major overseers, and (3) between the agency and the firms and interest groups it works with.\ 
+I study the politics of U.S. federal agencies. 
+Agencies hold policy preferences of their own, which I call agency ideology. I ask how agency ideology is shaped, and how it shapes what agencies do: how they award contracts, share information with Congress and interest groups, and write rules. I examine agency ideology from three angles: (1) within the agency, (2) between the agency and its major overseers, and (3) between the agency and the firms and interest groups it works with. 
 I use administrative data, text analysis, network analysis, and causal inference models to study these questions. My recent work asks whether agencies favor the president's campaign donors when awarding contracts, and whether this favoritism is stronger in agencies that share the president's ideology.
 
  
