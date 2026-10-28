@@ -11,3 +11,17 @@ __pycache__/
 
 /.quarto/
 **/*.quarto_ipynb
+
+# CV LaTeX build artifacts (keep source files and final CV PDFs trackable)
+/cv/*.aux
+/cv/*.fdb_latexmk
+/cv/*.fls
+/cv/*.log
+/cv/*.out
+/cv/*.synctex.gz
+/cv/cv-template.pdf
+
+# Keep local CV source and build helpers out of the public repository
+/cv/+CV_JODY_PARK_261027.qmd
+/cv/cv-preserve-latex.lua
+/cv/cv-template.tex

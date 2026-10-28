@@ -2,5 +2,61 @@
 title: "Teaching"
 page-layout: full
 include-back-link: false
+format:
+  html:
+    anchor-sections: false
+    title-block-banner: true
+    body-classes: teaching-page
 ---
 
+:::: {.teaching-list}
+
+## Teaching Assistant
+
+::: {.teaching-entry}
+
+```{=html}
+<div class="teaching-course">
+  <h3><span class="teaching-date">Summer 2023</span> <span class="teaching-title">Korean Economic Development, Graduate</span></h3>
+  <p class="teaching-institution">KDI School of Public Policy and Management</p>
+</div>
+<div class="research-buttons">
+  <button type="button" class="research-button" id="korean-development-summary-button" data-bs-toggle="collapse" data-bs-target="#korean-development-summary" aria-expanded="false" aria-controls="korean-development-summary">Summary</button>
+  <a class="teaching-resource" href="https://literate-melon-1c0.notion.site/Overview-of-the-Korean-Official-Foreign-Assistance-1945-2010-09b9dd951db84ab88056bfbf8f8b1fe3">Data Visualization: Overview of the Korean Official Foreign Assistance</a>
+</div>
+```
+
+::: {#korean-development-summary .collapse .research-panel role="region" aria-labelledby="korean-development-summary-button"}
+::: {.research-panel-content}
+
+- Developed data visualization class materials using R, Stata, and Notion.
+- Advised students on data visualization projects, with a focus on cleaning quantitative data and designing research articles.
+
+:::
+:::
+:::
+
+## Self Employment
+
+::: {.teaching-entry}
+
+```{=html}
+<div class="teaching-course">
+  <h3><span class="teaching-date">2021–2022</span> <span class="teaching-title">English Tutoring Service, Private Tutor</span></h3>
+</div>
+<div class="research-buttons">
+  <button type="button" class="research-button" id="english-tutoring-summary-button" data-bs-toggle="collapse" data-bs-target="#english-tutoring-summary" aria-expanded="false" aria-controls="english-tutoring-summary">Summary</button>
+</div>
+```
+
+::: {#english-tutoring-summary .collapse .research-panel role="region" aria-labelledby="english-tutoring-summary-button"}
+::: {.research-panel-content}
+
+- Taught English speaking and writing to elementary and middle school students and adults.
+- Held two 60-minute sessions per week for each student.
+
+:::
+:::
+:::
+
+::::

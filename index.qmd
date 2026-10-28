@@ -29,14 +29,18 @@ format:
 
 ::: {.g-col-12 .g-col-sm-8}
 
-I’m a second-year dual-title Ph.D. student in Political Science and Social Data Analytics at Pennsylvania State University. 
+I’m a second-year dual-title PhD student in [Political Science](https://polisci.la.psu.edu/graduate/){.about-link} and [Social Data Analytics](https://soda.la.psu.edu/){.about-link} at [Pennsylvania State University](https://www.psu.edu/){.about-link}.
 
 
-My research interests include U.S. bureaucratic politics, American institutions, racial and ethnic diversity, policy diffusion, and socioeconomic inequality. My recent work examines how racial and ethnic diversity within U.S. federal agencies shapes agency ideology and contracting outcomes, using administrative data. I'm also interested in applying text analysis and causal inference models to understand the relationship between bureaucratic agency ideology and policy outcomes for underrepresented people. 
+I study the politics of U.S. federal agencies.\ 
+Agencies hold policy preferences of their own, which I call agency ideology. I ask how agency ideology is shaped, and how it shapes what agencies do: how they award contracts, share information with Congress and interest groups, and write rules. I examine agency ideology from three angles: (1) within the agency, (2) between the agency and its major overseers, and (3) between the agency and the firms and interest groups it works with.\ 
+I use administrative data, text analysis, network analysis, and causal inference models to study these questions. My recent work asks whether agencies favor the president's campaign donors when awarding contracts, and whether this favoritism is stronger in agencies that share the president's ideology.
+
+ 
+My research starts with the people agencies are meant to serve. I want to keep asking how agencies work and whom they actually reach. Beyond academia, I hope to share what I learn and create with policymakers and the public, so that we can bring our experiences together and make government more accessible to people from diverse backgrounds.
 
 
-Before joining Penn State, I received a Master’s in Development Policy with a specialization in Data Science from the KDI School of Public Policy and Management (KDIS) in South Korea and a B.B.A. from the University of Prince Edward Island (UPEI) in Canada. I also worked as a researcher at the Korea Development Institute (KDI) and the Korea Research Institute for Vocational Education and Training (KRIVET).
-
+Before joining Penn State, I received a Master of Development Policy (MDP) with a specialization in Data Science from [the KDI School of Public Policy and Management, South Korea](https://www.kdischool.ac.kr/){.about-link} and a BBA from [the University of Prince Edward Island, Canada](https://www.upei.ca/){.about-link}. I also worked as a researcher at [the Korea Development Institute (KDI)](https://www.kdi.re.kr/eng/){.about-link} and [the Korea Research Institute for Vocational Education and Training (KRIVET)](https://www.krivet.re.kr/eng/index.do){.about-link}.
 :::
 
 :::
