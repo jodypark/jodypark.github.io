@@ -36,13 +36,14 @@ format:
 :::
 :::
 
-## Self Employment
+## Private Tutoring
 
 ::: {.teaching-entry}
 
 ```{=html}
 <div class="teaching-course">
-  <h3><span class="teaching-date">2021–2022</span> <span class="teaching-title">English Tutoring Service, Private Tutor</span></h3>
+  <h3><span class="teaching-date">2021–2022</span> <span class="teaching-title">English Tutoring, School-Age &amp; Adult Learners</span></h3>
+  <p class="teaching-institution">Self Employment</p>
 </div>
 <div class="research-buttons">
   <button type="button" class="research-button" id="english-tutoring-summary-button" data-bs-toggle="collapse" data-bs-target="#english-tutoring-summary" aria-expanded="false" aria-controls="english-tutoring-summary">Summary</button>

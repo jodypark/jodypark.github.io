@@ -182,7 +182,7 @@ Workforce Integration, International Graduate Students, University Career Servic
 :::
 
 ::: {.research-meta}
-with Sookweon Min and Hae Jun Yoon. 2023. Korean Educational Research Association.
+with Sookweon Min and Hae Jun Yoon. 2023. Korean Educational Research Association Annual Conference.
 
 [공저: 민숙원, 윤혜준 ([한국직업능력연구원](https://www.krivet.re.kr/kor/index.do){.research-coauthor}). 한국교육학회 2023년 연차학술대회.]{lang="ko"}
 :::
